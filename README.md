@@ -4,6 +4,12 @@
   *  Where the number is a multiple of 3, print ‘Fizz’, otherwise if it is a multiple of 5 print ‘Buzz’.
   *  If the number is a multiple of 3 and 5, print ‘FizzBuzz’.
 
+Getting the tests running
+=========================
+  * Install composer (http://getcomposer.org)
+  * `composer install --dev`
+  * `./vendor/bin/phpunit ./tests/FizzBuzzTest.php`
+
 Expected Output
 ===============
 <pre>
