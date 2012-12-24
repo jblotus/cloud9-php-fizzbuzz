@@ -5,7 +5,7 @@
   *  If the number is a multiple of 3 and 5, print ‘FizzBuzz’.
 
 Expected Output
-===============
+................
 <pre>
 64                                                                                                                                                                                                                                                 
 Buzz                                                                                                                                                                                                                                               
