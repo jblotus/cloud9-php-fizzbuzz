@@ -1,0 +1,4 @@
+.c9revisions/
+vendor/*
+composer.lock
+composer.phar
