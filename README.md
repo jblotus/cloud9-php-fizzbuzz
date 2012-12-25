@@ -1,5 +1,7 @@
 # A Simple FizzBuzz to test drive Cloud9
 
+This is a companion to my blog post: http://www.jblotus.com/2012/12/25/first-impressions-of-cloud9-ide/
+
 The Problem
 ===========
 FizzBuzz works like this:
